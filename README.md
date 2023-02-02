@@ -1,12 +1,13 @@
 <div align="center">
   <p>
-    <a href="https://fpshtmxm36.github.io/Jekyll_Portfolio/" target="_blank"><img src="https://img.shields.io/badge/|-Portfolio-3884FF?logo=GitHub&logoColor=black&labelColor=3884FF"/></a>
-    <!--
-    <img src="https://img.shields.io/badge/|-Tistory-FF8000?logo=Tistory&logoColor=black&labelColor=FF8000"/>
-    <img src="https://img.shields.io/badge/|-Velog-20C997?logo=Velog&logoColor=black&labelColor=20C997"/>
-    -->
-    <a href="mailto:fpshtmxm36@gmail.com" target="_blank"><img src="https://img.shields.io/badge/|-E--mali-EA4335?logo=Gmail&logoColor=black&labelColor=EA4335"/></a>
-    <a href="https://www.linkedin.com/in/fpshtmxm36" target="_blank"><img src="https://img.shields.io/badge/|-LinkedIn-0A66C2?logo=LinkedIn&logoColor=black&labelColor=0A66C2"/></a>
+    <a href="https://fpshtmxm36.github.io/Jekyll_Portfolio/">
+    <img src="https://img.shields.io/badge/|-Portfolio-3884FF?logo=GitHub&logoColor=black&labelColor=3884FF"/></a>
+    <a href="https://velog.io/@fpshtmxm36">
+    <img src="https://img.shields.io/badge/|-Velog-20C997?logo=Velog&logoColor=black&labelColor=20C997"/></a>
+    <a href="mailto:fpshtmxm36@gmail.com">
+    <img src="https://img.shields.io/badge/|-E--mali-EA4335?logo=Gmail&logoColor=black&labelColor=EA4335"/></a>
+    <a href="https://www.linkedin.com/in/fpshtmxm36">
+    <img src="https://img.shields.io/badge/|-LinkedIn-0A66C2?logo=LinkedIn&logoColor=black&labelColor=0A66C2"/></a>
   </p>
 </div>
 
