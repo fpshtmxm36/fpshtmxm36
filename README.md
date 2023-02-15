@@ -42,3 +42,13 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logoWidth=17&logo=Visual Studio Code&logoColor=white"/>
   </p>
 </div>
+
+---
+
+<div>
+  <h3>Recent Velog posts</h3>
+  <img src="https://profile-velog.vercel.app/api?seq=0"/>&nbsp;
+  <img src="https://profile-velog.vercel.app/api?seq=1"/><br>
+  <img src="https://profile-velog.vercel.app/api?seq=2"/>&nbsp;
+  <img src="https://profile-velog.vercel.app/api?seq=3"/>
+</div>
