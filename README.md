@@ -22,24 +22,48 @@
 <div>
   <h3>Stack</h3>
   <p>
-    <img src="https://img.shields.io/badge/HTML-2F2F2F?style=plastic&logoWidth=17&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-2F2F2F?style=plastic&logoWidth=17&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-2F2F2F?style=plastic&logoWidth=17&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-2F2F2F?style=plastic&logoWidth=17&logo=OpenJDK&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-2F2F2F?style=plastic&logoWidth=17&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DB2-2F2F2F?style=plastic&logoWidth=17&logo=IBM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Oracle-2F2F2F?style=plastic&logoWidth=17&logo=Oracle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-2F2F2F?style=plastic&logoWidth=17&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Github-2F2F2F?style=plastic&logoWidth=17&logo=Github&logoColor=white"/>
+    <picture>
+      <img src="https://img.shields.io/badge/HTML-2F2F2F?style=plastic&logoWidth=17&logo=HTML5&logoColor=white"/>
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/CSS-2F2F2F?style=plastic&logoWidth=17&logo=CSS3&logoColor=white"/>
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/JavaScript-2F2F2F?style=plastic&logoWidth=17&logo=JavaScript&logoColor=white"/>
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Java-2F2F2F?style=plastic&logoWidth=17&logo=OpenJDK&logoColor=white"/>
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Spring-2F2F2F?style=plastic&logoWidth=17&logo=Spring&logoColor=white"/>
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/DB2-2F2F2F?style=plastic&logoWidth=17&logo=IBM&logoColor=white"/>
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Oracle-2F2F2F?style=plastic&logoWidth=17&logo=Oracle&logoColor=white"/>
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/MySQL-2F2F2F?style=plastic&logoWidth=17&logo=MySQL&logoColor=white"/>
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Github-2F2F2F?style=plastic&logoWidth=17&logo=Github&logoColor=white"/>
+    </picture>
   </p>
 </div>
 
 <div>
   <h3>Tools</h3>
   <p>
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logoWidth=17&logo=Eclipse IDE&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FileZilla-BF0000?style=plastic&logoWidth=17&logo=FileZilla&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logoWidth=17&logo=Visual Studio Code&logoColor=white"/>
+    <picture>
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logoWidth=17&logo=Eclipse IDE&logoColor=white"/>
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/FileZilla-BF0000?style=plastic&logoWidth=17&logo=FileZilla&logoColor=white"/>
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logoWidth=17&logo=Visual Studio Code&logoColor=white"/>
+    </picture>
   </p>
 </div>
 
@@ -47,8 +71,16 @@
 
 <div>
   <h3>Recent Velog posts</h3>
-  <img src="https://profile-velog.vercel.app/api?seq=0"/>&nbsp;
-  <img src="https://profile-velog.vercel.app/api?seq=1"/><br>
-  <img src="https://profile-velog.vercel.app/api?seq=2"/>&nbsp;
-  <img src="https://profile-velog.vercel.app/api?seq=3"/>
+  <picture>
+    <img loading="lazy" width="400" height="65" src="https://profile-velog.vercel.app/api?seq=0"/>
+  </picture>
+  <picture>
+    <img loading="lazy" width="400" height="65" src="https://profile-velog.vercel.app/api?seq=1"/>
+  </picture>
+  <picture>
+    <img loading="lazy" width="400" height="65" src="https://profile-velog.vercel.app/api?seq=2"/>
+  </picture>
+  <picture>
+    <img loading="lazy" width="400" height="65" src="https://profile-velog.vercel.app/api?seq=3"/>
+  </picture>
 </div>
