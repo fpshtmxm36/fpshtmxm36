@@ -71,16 +71,14 @@
 
 <div>
   <h3>Recent Velog posts</h3>
+  <img loading="lazy" width="400" height="65" src="https://profile-velog.vercel.app/api?id=fpshtmxm36&seq=0"/>
   <picture>
-    <img loading="lazy" width="400" height="65" src="https://profile-velog.vercel.app/api?seq=0"/>
+    <img loading="lazy" width="400" height="65" src="https://profile-velog.vercel.app/api?id=fpshtmxm36&seq=1"/>
   </picture>
   <picture>
-    <img loading="lazy" width="400" height="65" src="https://profile-velog.vercel.app/api?seq=1"/>
+    <img loading="lazy" width="400" height="65" src="https://profile-velog.vercel.app/api?id=fpshtmxm36&seq=2"/>
   </picture>
   <picture>
-    <img loading="lazy" width="400" height="65" src="https://profile-velog.vercel.app/api?seq=2"/>
-  </picture>
-  <picture>
-    <img loading="lazy" width="400" height="65" src="https://profile-velog.vercel.app/api?seq=3"/>
+    <img loading="lazy" width="400" height="65" src="https://profile-velog.vercel.app/api?id=fpshtmxm36&seq=3"/>
   </picture>
 </div>
